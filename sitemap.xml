@@ -1,32 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.hmsprotect.de/</loc>
     <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.hmsprotect.de/"/>
   </url>
   <url>
-    <loc>https://www.hmsprotect.de/leistungen</loc>
+    <loc>https://www.hmsprotect.de/leistungen.html</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.hmsprotect.de/leistungen"/>
-  </url>
-  <url>
-    <loc>https://www.hmsprotect.de/ueber-uns</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.hmsprotect.de/ueber-uns"/>
-  </url>
-  <url>
-    <loc>https://www.hmsprotect.de/kontakt</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.hmsprotect.de/kontakt"/>
+  </url>
+  <url>
+    <loc>https://www.hmsprotect.de/ueber-uns.html</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hmsprotect.de/kontakt.html</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
