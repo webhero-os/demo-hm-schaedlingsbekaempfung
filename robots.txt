@@ -1,8 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /assets/
-Disallow: /images/
 
 Sitemap: https://www.hmsprotect.de/sitemap.xml
-
-Host: https://www.hmsprotect.de
